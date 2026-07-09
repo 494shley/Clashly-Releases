@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="images/UI/icon.png" alt="Clashly icon" width="128">
+  <img src="images/UI/banner.png" alt="Clashly banner">
 </p>
 
 # Clashly
