@@ -3,7 +3,7 @@
   <img src="images/UI/banner.png" alt="Clashly banner">
 </p>
 
-# Clashly
+
 
 Clashly is a Windows desktop automation app for Clash of Clans running in BlueStacks. It helps manage scheduled farming sessions, loot tracking, configurable attack settings, visual debugging, and Discord notifications from one Tkinter interface.
 
